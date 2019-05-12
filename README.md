@@ -1,3 +1,3 @@
 # MarioComfortable
-CS50 Project 1 
-this is the first exercise from the problem set 1 of cs50x 2019 project
+CS50 Project
+This repository is made for saving all the relevant code written in the course CS50
